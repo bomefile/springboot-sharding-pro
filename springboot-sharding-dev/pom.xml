@@ -177,9 +177,9 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <!---先不配置,看看是否能重启-->
-                    <configuration>
-                        <fork>true</fork>
-                    </configuration>
+                    <!--<configuration>-->
+                        <!--<fork>true</fork>-->
+                    <!--</configuration>-->
             </plugin>
 
             <!-- 跳过单元测试 -->
