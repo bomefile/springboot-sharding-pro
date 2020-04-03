@@ -38,17 +38,21 @@
   <component name="FileEditorManager">
     <leaf />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
     <option name="width" value="1930" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -64,46 +68,6 @@
               <item name="springboot-sharding-pro" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-sharding-pro" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springboot-sharding-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-sharding-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-sharding-base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-sharding-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-sharding-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-sharding-dev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-sharding-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-sharding-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-sharding-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-sharding-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-sharding-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-sharding-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-sharding-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-sharding-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-sharding-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot-sharding-pro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot-sharding-pro" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-sharding-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -113,7 +77,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585879409983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585879834847" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -149,12 +113,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585879126907</updated>
-      <workItem from="1585879132558" duration="226000" />
+      <workItem from="1585879132558" duration="638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268000" />
+    <option name="totallyTimeSpent" value="638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1544" height="832" extended-state="0" />
